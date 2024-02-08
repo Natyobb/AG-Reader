@@ -1,6 +1,7 @@
 "use strict";
 const chapters = [
   "1 - Augmented Genesis",
+  "2 - Advent Guards"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
