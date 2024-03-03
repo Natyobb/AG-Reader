@@ -2,7 +2,8 @@
 const chapters = [
   "1 - Augmented Genesis",
   "2 - Advent Guards",
-  "3 - Artificial Gravity"
+  "3 - Artificial Gravity",
+  "4 - Almighty Grasp"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
