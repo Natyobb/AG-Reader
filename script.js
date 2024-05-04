@@ -4,7 +4,10 @@ const chapters = [
   "2 - Advent Guards",
   "3 - Artificial Gravity",
   "4 - Almighty Grasp",
-  "5 - Auspicious Guardian"
+  "5 - Auspicious Guardian",
+  "6 - Altered Grounds",
+  "7 - Associated Gangsters",
+  "April Fools"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
