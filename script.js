@@ -8,6 +8,8 @@ const chapters = [
   "6 - Altered Grounds",
   "7 - Associated Gangsters",
   "April Fools"
+  "8 - Abrupt Gearshift",
+  "Ehnniversary"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
