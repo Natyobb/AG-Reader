@@ -10,7 +10,8 @@ const chapters = [
   "April Fools",
   "8 - Abrupt Gearshift",
   "Ehnniversary",
-  "9 - Anthropic Guilt"
+  "9 - Anthropic Guilt",
+  "10 - Advanced Gaming"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
