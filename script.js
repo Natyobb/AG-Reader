@@ -11,7 +11,8 @@ const chapters = [
   "8 - Abrupt Gearshift",
   "Ehnniversary",
   "9 - Anthropic Guilt",
-  "10 - Advanced Gaming"
+  "10 - Advanced Gaming",
+  "The Craig of Our Afterlives"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
