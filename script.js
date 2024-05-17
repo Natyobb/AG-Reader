@@ -12,7 +12,8 @@ const chapters = [
   "Ehnniversary",
   "9 - Anthropic Guilt",
   "10 - Advanced Gaming",
-  "The Craig of Our Afterlives"
+  "The Craig of Our Afterlives",
+  "Finale - Advehnt Guard"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
